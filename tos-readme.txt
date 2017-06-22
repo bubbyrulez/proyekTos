@@ -5,17 +5,11 @@ Nathaniel Edward - 26415080
 Aldy Noah - 26415080
 
 Game ini di design dengan pygame, cara memainkannya harus di download dulu source codenya,
-buka ___.exe
+buka main.py
 
 navigasi game menggunakan arrow up, down, left, right ,dan space untuk lompat.
 
 tujuan dari game ini adalah mendapatkan score setinggi mungkin, kami menyimpan high score dengan nama user yang memainkannya.
-
-game ini memiliki fitur
-high score
-jump akan lebih tinggi bila button di hold
-sound effects
-animasi
 
 
 How to play
